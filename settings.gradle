@@ -1,0 +1,2 @@
+rootProject.name='HileSample'
+include ':app'
